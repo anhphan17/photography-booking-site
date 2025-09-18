@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Antic+Didone&family=Knewave&display=swap');
+footer {
+    background-color: #18181A;
+    padding: 1rem;
+    font-family: 'Antic Didone', 'Knewave', sans-serif;
+    color: #ebe8de;
+    text-align: center;
+    font-size: 0.9rem;
+    margin-top: auto;
+}
