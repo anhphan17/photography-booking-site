@@ -23,12 +23,14 @@ function App() {
         <Route path='/portfolio' element={<Portfolio />} />
         <Route path='/policy' element={<Policy />} />
         <Route path='/contact' element={<Contact />} />
-        </Route>
-
 
         <Route path='/booking' element={<Booking />} />
         <Route path='/login' element={<Login />} />
         <Route path='/signup' element={<Signup />} />
+        </Route>
+
+
+        
       </Routes>
     </Router>
   );
